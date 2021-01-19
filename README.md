@@ -1,4 +1,3 @@
-# Hacker-Rank-Java-Questions-
 
 ### Hackerrank JAVA Solution-
 
